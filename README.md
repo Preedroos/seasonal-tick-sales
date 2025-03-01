@@ -50,3 +50,7 @@ The results indicate that humidity and rainy periods have a significant impact o
 ---
 
 ### Additional Notes:
+![Sales Plot](images/sales_temperature.png)
+![Sales Plot](images/sales_humidity.png)
+![Sales Plot](images/sales_free-rain-days.png)
+
